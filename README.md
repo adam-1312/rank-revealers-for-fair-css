@@ -1,6 +1,6 @@
 # rank-revealers-for-fair-css
 
-##Note on implementation
+## Note on implementation
 This is the github repository accompanying my bachelor thesis on Rank-revealer methods for Fair Column Subset Selction which was completed in the institute of Numerical Mathematics at the University of Ulm in 2024. For the implementations used in this work we used Python and Matlab. Further, we used a mix of our own original work and implementations from the work of [Damle et. al.](https://arxiv.org/abs/2405.04330). In particular, in the repository you will find the following implementations:
 
 - CPQR.m: Implementation of CPQR by Damle et. al.
